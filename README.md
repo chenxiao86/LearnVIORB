@@ -1,3 +1,7 @@
+Modified jingpang's code [LearnVIORB](https://github.com/jingpang/LearnVIORB), to run VIORB without ROS.
+
+*****
+
 Realtime branch. 
 
 Modification: 

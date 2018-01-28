@@ -19,6 +19,6 @@ Examples/Monocular/mono_tum
 Examples/RGB-D/rgbd_tum
 Examples/Stereo/stereo_euroc
 Examples/Stereo/stereo_kitti
-
 Examples/ROS/ORB_VIO/VIO
+Examples/Monocular/VIO_EuRoC
 
