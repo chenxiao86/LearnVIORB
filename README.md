@@ -1,6 +1,7 @@
 Modified jingpang's code [LearnVIORB](https://github.com/jingpang/LearnVIORB), to run VIORB without ROS.
 
 ```
+cd Example/Monocular
 ./mono_vio_euroc ../../Vocabulary/ORBvoc.bin ../../config/euroc.yaml PATH_TO_SEQUENCE_FOLDER/XXX/mav0/cam0/data ./EuRoC_TimeStamps/XXX.txt PATH_TO_SEQUENCE_FOLDER/MH_02/mav0/imu0/data.csv
 ```
 
